@@ -1,7 +1,8 @@
 #+TITLE: docs
 
 ** #programming
-**
+*** awesome-logseq https://github.com/logseq/awesome-logseq
+***
 ** logseq schema - could make some pretty nifty datalog queries...
 *** https://gist.github.com/tiensonqin/9a40575827f8f63eec54432443ecb929
 ***
