@@ -21,7 +21,10 @@ Type `Shift+Enter` to create a new line.
 Type `/` to show all the commands.
 Type `[[` to reference or create a new page.
 Type `((` to reference a block on any page.
-Type `Tab` to indent and `Shift+Tab` to unindent block.
+T
+## Lartew I guee
+###
+ `Tab` to indent and `Shift+Tab` to unindent block.
 Type `/Draw` for free drawing.
 Click the help button at the bottom right to see more keybindings. 
 #+END_TIP
