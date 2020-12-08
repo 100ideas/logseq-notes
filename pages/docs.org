@@ -1,7 +1,7 @@
 #+TITLE: docs
 
 ** logseq schema - could make some pretty nifty datalog queries...
-*** .
+*** https://gist.github.com/tiensonqin/9a40575827f8f63eec54432443ecb929
 ***
 #+BEGIN_SRC clojure
 (def schema
